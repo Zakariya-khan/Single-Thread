@@ -1,0 +1,11 @@
+/home/zakaria/sigle thread/Single-Thread/Single_Thread/target/debug/deps/futures_core-ecb264740135dcac.rmeta: /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/lib.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/future.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/stream.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/mod.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/poll.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/__internal/mod.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/__internal/atomic_waker.rs
+
+/home/zakaria/sigle thread/Single-Thread/Single_Thread/target/debug/deps/futures_core-ecb264740135dcac.d: /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/lib.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/future.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/stream.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/mod.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/poll.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/__internal/mod.rs /home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/__internal/atomic_waker.rs
+
+/home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/lib.rs:
+/home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/future.rs:
+/home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/stream.rs:
+/home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/mod.rs:
+/home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/poll.rs:
+/home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/__internal/mod.rs:
+/home/zakaria/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.5/src/task/__internal/atomic_waker.rs:
